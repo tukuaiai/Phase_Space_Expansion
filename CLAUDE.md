@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**Project Name**: 永生 (Immortality) / 可能性极大主义 (Possibilistic Maximalism)
+**Project Name**: 永生 (Immortality) / 相空间拓展计划 (Possibilistic Maximalism)
 **Type**: Philosophical Research Framework + Knowledge Repository
 **Primary Language**: Chinese (with English translations)
 **Status**: Phase 0 - Foundation Building (Active Research)
